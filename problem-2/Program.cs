@@ -1,12 +1,14 @@
 ﻿using System;
+using Xunit;
 
 namespace problem_2
 {
-    class Program
+    public class UnitTest1
     {
-        static void Main(string[] args)
+        [Fact]
+        public void Test1()
         {
-            Console.WriteLine("Hello World!");
+
         }
     }
 }

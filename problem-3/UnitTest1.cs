@@ -1,7 +1,7 @@
-﻿using System;
+using System;
 using Xunit;
 
-namespace problem_1
+namespace problem_3
 {
     public class UnitTest1
     {
